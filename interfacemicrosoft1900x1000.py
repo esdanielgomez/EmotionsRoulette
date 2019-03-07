@@ -10,7 +10,7 @@ from UnJugador1900x1000 import Ui_Form
 import requests
 import cv2
 from PIL import Image
-subscription_key = "19961dfb613847f88812498e5c338f94"
+subscription_key = "KEY"
 face_api_url = 'https://eastus.api.cognitive.microsoft.com/face/v1.0/detect'
 assert subscription_key
 

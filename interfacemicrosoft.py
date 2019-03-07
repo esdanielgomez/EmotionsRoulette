@@ -10,7 +10,7 @@ from UnJugador import Ui_Form
 import requests
 import cv2
 from PIL import Image
-subscription_key = "dc73963142044d59a50d4378a32262e5"
+subscription_key = "KEY"
 face_api_url = 'https://australiaeast.api.cognitive.microsoft.com/face/v1.0'
 assert subscription_key
 
